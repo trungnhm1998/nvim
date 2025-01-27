@@ -11,3 +11,4 @@ vim.opt.listchars = {
   nbsp = "␣",
 }
 vim.opt.list = true
+vim.opt.termguicolors = true
